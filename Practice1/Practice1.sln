@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateStruct", "CreateStruct\CreateStruct.csproj", "{562D6104-949D-4442-B71C-C35C4CD9EAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mihalich-zver", "Mihalich-zver\Mihalich-zver.csproj", "{B610A4C5-F020-4451-9CDE-6260BC1890C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortString", "SortString\SortString.csproj", "{010CC05F-E152-4D79-872A-B543B245C03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateStruct3", "CreateStruct3\CreateStruct3.csproj", "{E01B94FA-0710-4893-A35C-DCD018F21B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewFile", "D:\Downloads\Practics-master\Prac1\ViewFile2_3\ViewFile.csproj", "{C1984214-B839-4C3D-ACCB-852B5B06E76F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerEvents", "WindowsFormsApp1\TimerEvents.csproj", "{2C8881E4-A72E-4E5F-882A-56CE4BEC25A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562D6104-949D-4442-B71C-C35C4CD9EAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562D6104-949D-4442-B71C-C35C4CD9EAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562D6104-949D-4442-B71C-C35C4CD9EAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562D6104-949D-4442-B71C-C35C4CD9EAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B610A4C5-F020-4451-9CDE-6260BC1890C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B610A4C5-F020-4451-9CDE-6260BC1890C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B610A4C5-F020-4451-9CDE-6260BC1890C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B610A4C5-F020-4451-9CDE-6260BC1890C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010CC05F-E152-4D79-872A-B543B245C03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010CC05F-E152-4D79-872A-B543B245C03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010CC05F-E152-4D79-872A-B543B245C03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010CC05F-E152-4D79-872A-B543B245C03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01B94FA-0710-4893-A35C-DCD018F21B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01B94FA-0710-4893-A35C-DCD018F21B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01B94FA-0710-4893-A35C-DCD018F21B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01B94FA-0710-4893-A35C-DCD018F21B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1984214-B839-4C3D-ACCB-852B5B06E76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1984214-B839-4C3D-ACCB-852B5B06E76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1984214-B839-4C3D-ACCB-852B5B06E76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1984214-B839-4C3D-ACCB-852B5B06E76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8881E4-A72E-4E5F-882A-56CE4BEC25A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8881E4-A72E-4E5F-882A-56CE4BEC25A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8881E4-A72E-4E5F-882A-56CE4BEC25A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8881E4-A72E-4E5F-882A-56CE4BEC25A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCED99D9-7F83-43EA-AB0F-CD36668282B5}
+	EndGlobalSection
+EndGlobal
