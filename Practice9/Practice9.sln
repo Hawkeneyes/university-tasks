@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandWindow", "RandWindow\RandWindow.csproj", "{3DC668C9-1569-454F-A931-580A9C9B8458}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondApplication", "SecondApplication\SecondApplication.csproj", "{64C2568F-9495-42F1-9FAD-D94C8EEA8785}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftAccessDemo", "MicrosoftAccessDemo\MicrosoftAccessDemo.csproj", "{914C9DAD-D29B-4152-87AB-6C6F12FB8053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{3DC668C9-1569-454F-A931-580A9C9B8458}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DC668C9-1569-454F-A931-580A9C9B8458}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DC668C9-1569-454F-A931-580A9C9B8458}.Release|Any CPU.Build.0 = Release|Any CPU
-		{64C2568F-9495-42F1-9FAD-D94C8EEA8785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64C2568F-9495-42F1-9FAD-D94C8EEA8785}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64C2568F-9495-42F1-9FAD-D94C8EEA8785}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64C2568F-9495-42F1-9FAD-D94C8EEA8785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914C9DAD-D29B-4152-87AB-6C6F12FB8053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914C9DAD-D29B-4152-87AB-6C6F12FB8053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914C9DAD-D29B-4152-87AB-6C6F12FB8053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914C9DAD-D29B-4152-87AB-6C6F12FB8053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
