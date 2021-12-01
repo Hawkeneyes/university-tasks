@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieChart1", "PieChart1\PieChart1.csproj", "{2AA20265-0265-41BD-93B7-0B0B09BD185E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieChart2", "PieChart2\PieChart2.csproj", "{1C426254-3587-4AF8-BB56-B0C8317CAF24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA20265-0265-41BD-93B7-0B0B09BD185E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA20265-0265-41BD-93B7-0B0B09BD185E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA20265-0265-41BD-93B7-0B0B09BD185E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA20265-0265-41BD-93B7-0B0B09BD185E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C426254-3587-4AF8-BB56-B0C8317CAF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C426254-3587-4AF8-BB56-B0C8317CAF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C426254-3587-4AF8-BB56-B0C8317CAF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C426254-3587-4AF8-BB56-B0C8317CAF24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F128912-475A-4626-BA66-F2E952AF5CE0}
+	EndGlobalSection
+EndGlobal
